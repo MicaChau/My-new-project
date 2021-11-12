@@ -1,0 +1,31 @@
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #4169FA; }
+.My-Color-Theme-2-hex { color: #3987DB; }
+.My-Color-Theme-3-hex { color: #4BC8F2; }
+.My-Color-Theme-4-hex { color: #39DBD9; }
+.My-Color-Theme-5-hex { color: #41FAC2; }
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba { color: rgba(65, 105, 250, 1); }
+.My-Color-Theme-2-rgba { color: rgba(57, 135, 219, 1); }
+.My-Color-Theme-3-rgba { color: rgba(75, 200, 242, 1); }
+.My-Color-Theme-4-rgba { color: rgba(57, 219, 217, 1); }
+.My-Color-Theme-5-rgba { color: rgba(65, 250, 194, 1); }
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { color: hsla(227, 94, 61, 1); }
+.My-Color-Theme-2-hsla { color: hsla(211, 69, 54, 1); }
+.My-Color-Theme-3-hsla { color: hsla(195, 86, 62, 1); }
+.My-Color-Theme-4-hsla { color: hsla(179, 69, 54, 1); }
+.My-Color-Theme-5-hsla { color: hsla(161, 94, 61, 1); }
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.figure{
+    background-color: #4BC8F2;
+}
+.form{
+    background-color: #41FAC2;
+}
